@@ -66,3 +66,9 @@ client.sendRequest(
         client.callRequest(watchRequest);
 ```
 
+
+## 其他
+
+ratis没有暴露对客户端session的管理
+zk
+
